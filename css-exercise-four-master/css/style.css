@@ -1,0 +1,119 @@
+element.style {
+}
+
+body {
+  background-color: #dadada;
+  font-size: 10px;
+}
+
+body {
+  display: block;
+  margin: 8px;
+}
+
+@media screen and (min-width: 575px){
+   div {
+    .Bakuu {width: 5%}   
+    margin: 30%;
+    width: 60%;
+  }
+}
+
+h1 {
+  width:130px;
+  font-family:"Book Antiqua, sans-serif";
+  font-size:22px;
+  color:#000000;
+  position: absolute;
+  padding-left: 30px;
+  line-height: 185px;
+  font-weight: 200;
+}
+
+h2 {
+  width: 390px;
+  padding-left: 86px;
+  padding-top: 18px;
+  position: absolute;
+  height: 60px;
+  font-family: helvetica, sans-serif; 
+  font-weight: 100;
+  font-size: 19px;
+  background-color: silver; 
+  letter-spacing: 3px;
+}
+
+h3 {
+  font-family:"Book Antiqua, sans-serif";
+  font-size: 22px;
+  color:#000000;
+  position: absolute;
+  padding-left: 30px;
+  line-height: 550px;
+  font-weight: 200;
+}
+
+h4 {
+  font-family:"Book Antiqua, sans-serif";
+  font-size: 22px;
+  color:#000000;
+  position: absolute;
+  padding-left: 30px;
+  line-height: 0px; 
+  font-weight: 200;
+}
+
+h6 {
+  font-family:"Book Antiqua, sans-serif";
+  font-size: 22px;
+  text-align: left;
+  color:#000000;
+  position: absolute;
+  padding-top: 520px;
+  padding-left: 30px;
+  font-weight: 200;
+}
+
+.container {
+  width: 15%;
+  height: 300px;
+  display: block;
+  position: absolute;
+  margin-left: 440px;
+  min-height: 800px;
+  min-width: 600px;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+.Bakuu {
+  padding-top: 65px;
+  height: 339px;
+  width: 390px;
+  border-bottom: 25px solid silver;
+}
+
+.Londonn {
+  top: 349px;
+  height: 270px;
+  position: absolute;
+  width: 390px;
+  border-bottom: 25px solid silver;
+}
+
+.Madridd  {
+  top: 618px;
+  height: 270px;
+  width: 390px; 
+  position: absolute;
+  border-bottom: 25px solid silver;
+
+}
+
+.Romee {
+  top: 887px;
+  height: 270px;
+  width: 390px;
+  position: absolute;
+}
